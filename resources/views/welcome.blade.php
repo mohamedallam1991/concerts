@@ -10,7 +10,9 @@
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 
     </head>
-    <body class="bg-blue-200">
-        <div class=""bg-blue-800""> yeah</div>
+    <body>
+        <div class="bg-red-100 inline-block">
+            yeah
+        </div>
     </body>
 </html>
